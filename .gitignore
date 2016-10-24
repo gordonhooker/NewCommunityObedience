@@ -6,3 +6,4 @@ THIRDPARTYLICENSE.txt
 css/*
 scss/*
 node_modules/*
+build/*
