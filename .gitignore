@@ -1,0 +1,8 @@
+nbproject/*
+CONTRIBUTING.md
+LICENSE.md
+README.md.orig
+THIRDPARTYLICENSE.txt
+css/*
+scss/*
+node_modules/*
